@@ -1,0 +1,2 @@
+# GuidedStructurePropertyExploration
+Photovoltaics Dataset for Structure Property Explorations
