@@ -1,5 +1,5 @@
 # GuidedStructurePropertyExploration
-Photovoltaics Dataset for Structure Property Explorations
+Photovoltaics Dataset for Guided Structure Property Explorations
 
 DATA ACCESS FORM:
 
