@@ -1,11 +1,10 @@
 # GuidedStructurePropertyExploration
 Photovoltaics Dataset for Guided Structure Property Explorations
 
-DATA ACCESS FORM:
+#### DATA ACCESS FORM:
 
-Please fill out this form that asks for your name, a valid email address and the name of the institution you are affiliated with, to
-gain access to the data:
+Thank you for your interest. Please fill out this form to gain access to the data:
 
-https://docs.google.com/forms/d/1aYnyt2DZlo-94sWKQendokDuUr3xfSsB4WhFwViwZV4/edit
+https://docs.google.com/forms/d/1aYnyt2DZlo-94sWKQendokDuUr3xfSsB4WhFwViwZV4
 
-Thank you for your interest. The download link will be sent to your email once the form is completed. 
+The download link will be sent once the form is completed. 
