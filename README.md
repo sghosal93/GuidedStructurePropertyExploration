@@ -1,5 +1,9 @@
-# GuidedStructurePropertyExploration
+# GuidedStructurePropertyExploration:
 Photovoltaics Dataset for Guided Structure Property Explorations
+
+# Citation:
+Please cite the following article if this dataset is used:
+https://doi.org/10.1038/s41524-019-0231-y
 
 #### DATA ACCESS FORM:
 
