@@ -1,4 +1,4 @@
-# GuidedStructurePropertyExploration:
+# GuidedStructurePropertyExploration (GSPE):
 Photovoltaics Dataset for Guided Structure Property Explorations
 
 # Citation:
